@@ -2,8 +2,8 @@
 
 Repository heavily inspired by [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions). 💪
 
-## Fundamentals
+## 7 kyu
 
-| Title                                                                    | Solution                                       |
-| ------------------------------------------------------------------------ | ---------------------------------------------- |
-| [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Javascript](./Fundamentals/printer-errors.js) |
+| Title                                                                    | Solution                                |
+| ------------------------------------------------------------------------ | --------------------------------------- |
+| [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Javascript](./7 kyu/printer-errors.js) |
