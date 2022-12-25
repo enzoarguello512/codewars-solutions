@@ -10,6 +10,7 @@ Repository heavily inspired by [LeetCode-Solutions](https://github.com/kamyu104/
 
 ## 7 kyu
 
-| Title                                                                    | Solution                                |
-| ------------------------------------------------------------------------ | --------------------------------------- |
-| [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Javascript](./7-kyu/printer-errors.js) |
+| Title                                                                      | Solution                                   |
+| -------------------------------------------------------------------------- | ------------------------------------------ |
+| [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)   | [Javascript](./7-kyu/printer-errors.js)    |
+| [String ends with](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Javascript](./7-kyu/string-ends-with-.js) |
