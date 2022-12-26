@@ -7,6 +7,7 @@ Repository heavily inspired by [LeetCode-Solutions](https://github.com/kamyu104/
 | Title                                                                                         | Solution                                                     |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [Count of positives sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Javascript](./8-kyu/count-of-positives-sum-of-negatives.js) |
+| [You Can t Code Under Pressure 1](https://www.codewars.com/kata/53ee5429ba190077850011d4)     | [Javascript](./8-kyu/you-can-t-code-under-pressure-1.js)     |
 
 ## 7 kyu
 
