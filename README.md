@@ -17,3 +17,9 @@ Repository heavily inspired by [LeetCode-Solutions](https://github.com/kamyu104/
 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)   | [Javascript](./7-kyu/printer-errors.js)    |
 | [String ends with](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Javascript](./7-kyu/string-ends-with-.js) |
 | [Friend or Foe](https://www.codewars.com/kata/55b42574ff091733d900002f)    | [Javascript](./7-kyu/friend-or-foe-.js)    |
+
+## 6 kyu
+
+| Title                                                                            | Solution                                        |
+| -------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Javascript](./6-kyu/find-the-unique-number.js) |
